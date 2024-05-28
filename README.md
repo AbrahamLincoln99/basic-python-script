@@ -1,8 +1,8 @@
-# Super Basic JSON Retrieval Script
+## Super Basic JSON Retrieval Script
 
 This is a super basic script in Python format to help me understand what scripting is.
 
-## Description of super_basic_json_retrieval.py
+### Description of super_basic_json_retrieval.py
 
 The idea is the script fetches tasks from a public API (Application Programming Interface), processes them, and then finds completed tasks.
 
